@@ -85,6 +85,8 @@ h1 {
   font-size: 1rem;
   border-color: rgba(255, 255, 255, 0);
   border-radius: 1rem;
+  font-weight: bold;
+  color: white;
 }
 
 .button:hover {
@@ -93,11 +95,6 @@ h1 {
 
 .button > img {
   padding-right: 0.65rem;
-}
-
-.button-text {
-  font-weight: bold;
-  color: white;
 }
 
 @media only screen and (max-width: 768px) {
